@@ -9,7 +9,7 @@ The project explores multiple approaches, starting from classical baselines (Nai
 
 For a complete and detailed breakdown of the data preprocessing, model architectures, and performance analysis, **please read the project documentation**:
 
-* [Read the English Documentation (PDF)](Popescu_Iulia_Maria_documentation.pdf)
+* EN [Read the English Documentation (PDF)](Popescu_Iulia_Maria_documentation.pdf)
 
 ---
 
