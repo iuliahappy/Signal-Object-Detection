@@ -9,7 +9,7 @@ The project explores multiple approaches, starting from classical baselines (Nai
 
 For a complete and detailed breakdown of the data preprocessing, model architectures, and performance analysis, **please read the project documentation**:
 
-* EN [Read the English Documentation (PDF)](Popescu_Iulia_Maria_documentation.pdf)
+* [Read the English Documentation (PDF)](Popescu_Iulia_Maria_documentation.pdf)
 
 ---
 
@@ -24,4 +24,4 @@ Proiectul explorează multiple abordări, pornind de la modele clasice de bază 
 
 Pentru o analiză detaliată a modului în care au fost preprocesate datele, a arhitecturilor utilizate și a evoluției performanței, **te invit să consulți documentația proiectului**:
 
-* 🇷🇴 [Citește documentația în limba română (PDF)](Popescu_Iulia_Maria_documentatie.pdf)
+* [Citește documentația în limba română (PDF)](Popescu_Iulia_Maria_documentatie.pdf)
